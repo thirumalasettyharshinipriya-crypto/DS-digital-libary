@@ -1,0 +1,6 @@
+{
+  "name": "DS Lab Portal — Data Science Digital Library",
+  "description": "Comprehensive academic portal and digital library for Data Science students and faculty, featuring experiment logs, project portfolios, lab equipment tracking, interactive data tools, and coding sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

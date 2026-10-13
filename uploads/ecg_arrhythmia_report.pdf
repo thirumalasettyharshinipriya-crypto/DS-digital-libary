@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1161 >>
+stream
+BT
+/F1 14 Tf
+50 750 Td
+(Autonomous ECG Cardiac Arrhythmia Classifier) Tj
+/F1 10 Tf
+0 -20 Td
+(Lead Author: T. Harshini Priya (Lead Research Author), K. Rahul) Tj
+0 -15 Td
+(Faculty Guide: Dr. K. V. Ramanathan, M.Tech, Ph.D.) Tj
+0 -15 Td
+(Institutional Department: Department of Data Science) Tj
+0 -25 Td
+/F1 11 Tf
+(1. PROJECT OVERVIEW & SCOPE) Tj
+/F1 9 Tf
+0 -15 Td
+(Comprehensive validation of deep residual 1D-CNN combined with) Tj
+0 -12 Td
+(Bidirectional LSTM units on the MIT-BIH Arrhythmia benchmark. Preprocessing) Tj
+0 -12 Td
+(included 0.5-40Hz Butterworth bandpass filtering, Pan-Tompkins QRS wave) Tj
+0 -12 Td
+(isolation, and data augmentation for ectopic complexes.) Tj
+0 -20 Td
+/F1 11 Tf
+(2. EXPERIMENTAL BENCHMARKS) Tj
+/F1 9 Tf
+0 -14 Td
+(Diagnostic accuracy achieved 98.4% across 109,492 cardiac cycles with 97.8%) Tj
+0 -12 Td
+(precision, 98.9% recall, and 98.3% F1-score across 5 distinct clinical) Tj
+0 -12 Td
+(categories.) Tj
+0 -18 Td
+/F1 11 Tf
+(3. DEPLOYMENT & VERIFICATION) Tj
+/F1 9 Tf
+0 -14 Td
+(Inference latency was benchmarked at under 14ms per 10-second segment,) Tj
+0 -12 Td
+(suitable for real-time edge telemetry monitoring.) Tj
+0 -18 Td
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000227 00000 n 
+0000000300 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+400
+%%EOF

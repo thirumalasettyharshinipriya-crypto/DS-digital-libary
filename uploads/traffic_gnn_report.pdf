@@ -1,0 +1,73 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1058 >>
+stream
+BT
+/F1 14 Tf
+50 750 Td
+(Intelligent Traffic Congestion Predictor usin) Tj
+/F1 10 Tf
+0 -20 Td
+(Lead Author: T. Harshini Priya, M. Sneha, R. Vikram) Tj
+0 -15 Td
+(Faculty Guide: Prof. P. N. Murthy, Ph.D.) Tj
+0 -15 Td
+(Institutional Department: Department of Data Science) Tj
+0 -25 Td
+/F1 11 Tf
+(1. PROJECT OVERVIEW & SCOPE) Tj
+/F1 9 Tf
+0 -15 Td
+(Metropolitan intersection flow prediction modeling metropolitan road) Tj
+0 -12 Td
+(segments as vertices in a Spatio-Temporal Graph Convolutional Network) Tj
+0 -12 Td
+([ST-GCN] with GRU recurrent units for 30-minute predictive horizon.) Tj
+0 -20 Td
+/F1 11 Tf
+(2. SPATIO-TEMPORAL ARCHITECTURE) Tj
+/F1 9 Tf
+0 -14 Td
+(Evaluated on 86,400 sensor loop readings across major arterial corridors.) Tj
+0 -12 Td
+(Mean Absolute Error was reduced by 14.8% compared to historical ARIMA) Tj
+0 -12 Td
+(baselines.) Tj
+0 -18 Td
+/F1 11 Tf
+(3. SIMULATION OUTCOMES) Tj
+/F1 9 Tf
+0 -14 Td
+(Model identified bottlenecks with 95.2% accuracy, predicting severe) Tj
+0 -12 Td
+(congestion events with 20-minute advance warning.) Tj
+0 -18 Td
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000227 00000 n 
+0000000300 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+400
+%%EOF

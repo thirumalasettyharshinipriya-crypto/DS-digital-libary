@@ -1,0 +1,69 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 932 >>
+stream
+BT
+/F1 14 Tf
+50 750 Td
+(3D Volumetric Brain MRI Glioma Segmentation) Tj
+/F1 10 Tf
+0 -20 Td
+(Lead Author: T. Harshini Priya (Lead Researcher)) Tj
+0 -15 Td
+(Faculty Guide: Dr. K. V. Ramanathan, M.Tech, Ph.D.) Tj
+0 -15 Td
+(Institutional Department: Department of Data Science) Tj
+0 -25 Td
+/F1 11 Tf
+(1. PROJECT OVERVIEW & SCOPE) Tj
+/F1 9 Tf
+0 -15 Td
+(Volumetric segmentation of glioblastoma sub-regions using 3D U-Net deep) Tj
+0 -12 Td
+(neural network on multi-modal FLAIR and T1ce MR neuro-imaging scans.) Tj
+0 -20 Td
+/F1 11 Tf
+(2. VOLUMETRIC SEGMENTATION METRICS) Tj
+/F1 9 Tf
+0 -14 Td
+(Dice similarity coefficient of 91.2% for whole tumor and 88.5% for active) Tj
+0 -12 Td
+(enhancing tumor core across BraTS clinical cohorts.) Tj
+0 -18 Td
+/F1 11 Tf
+(3. CLINICAL RELEVANCE) Tj
+/F1 9 Tf
+0 -14 Td
+(Provides automated volumetric measurements for radiation oncology planning) Tj
+0 -12 Td
+(and surgical resection guidance.) Tj
+0 -18 Td
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000227 00000 n 
+0000000300 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+400
+%%EOF

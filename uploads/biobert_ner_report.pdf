@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 918 >>
+stream
+BT
+/F1 14 Tf
+50 750 Td
+(Biomedical Named Entity Recognition with BioB) Tj
+/F1 10 Tf
+0 -20 Td
+(Lead Author: T. Harshini Priya (Lead)) Tj
+0 -15 Td
+(Faculty Guide: Dr. K. V. Ramanathan, M.Tech, Ph.D.) Tj
+0 -15 Td
+(Institutional Department: Department of Data Science) Tj
+0 -25 Td
+/F1 11 Tf
+(1. PROJECT OVERVIEW & SCOPE) Tj
+/F1 9 Tf
+0 -15 Td
+(Fine-tuned BioBERT transformer model with conditional random fields [CRF]) Tj
+0 -12 Td
+(for automated extraction of genes, diseases, and chemical compounds from) Tj
+0 -12 Td
+(scientific literature.) Tj
+0 -20 Td
+/F1 11 Tf
+(2. EXTRACTION METRICS) Tj
+/F1 9 Tf
+0 -14 Td
+(Achieved 89.7% F1-score across NCBI-Disease and BC5CDR gold standard) Tj
+0 -12 Td
+(corpora with sub-20ms inference latency.) Tj
+0 -18 Td
+/F1 11 Tf
+(3. REAL-TIME API) Tj
+/F1 9 Tf
+0 -14 Td
+(Integrated with FastAPI REST endpoints for real-time indexing of PubMed) Tj
+0 -12 Td
+(biomedical abstracts.) Tj
+0 -18 Td
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000227 00000 n 
+0000000300 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+400
+%%EOF
